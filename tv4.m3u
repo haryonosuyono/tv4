@@ -1,1 +1,67 @@
 
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOKAL", JITV
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/132.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOKAL", CNN INDONESIA
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/135.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOKAL", JAKARTA GLOBE NEWS
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/136.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOKAL", BERITA SATU
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/137.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOKAL", iNews
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/138.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOKAL", METRO TV
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/142.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOKAL", MNC TV
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/143.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOKAL", GTV
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/144.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOKAL", RCTI
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/148.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LOKAL", TRANS TV
+http://188.40.76.108:25461/live/mytv01/uSIRzmks51/150.ts
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", GTV
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", MNC
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", RCTI
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", INEWS
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", ANTV
+http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", SCTV
+http://210.210.155.35/qwr9ew/s/s03/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", INDOSIAR
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", NET
+http://210.210.155.35/qwr9ew/s/s08/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=NET.
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", TRANS 7
+http://210.210.155.35:80/qwr9ew/s/s101/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Trans7
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", TV ONE
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", TRANS TV
+http://210.210.155.35:80/x6bnqe/s/s252/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Trans_TV
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGd
